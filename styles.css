@@ -5,6 +5,7 @@ h1 { color:#0047AB;
   margin-bottom: 30px;
   margin-left:600px}
 p{color:#0047AB; font-family:Arial;font-size:20px;margin-left:500px}
+img {width:15%; height:auto; outline-style: inset; color:#FF91A4; outline-width: thick}
 .globe{width:15%; height:auto; outline-style: inset; color:#FF91A4; outline-width: thick}
 article{ background-color: aliceblue;outline-style: dashed; color: darkseagreen;outline-width:3px;}
 h2{color: #0047AB;font-family: Helvetica;}
