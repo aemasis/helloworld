@@ -5,5 +5,17 @@ h1 { color:#328e13;
   text-align: center}
 p{color:#383406; font-family:Helvetica;font-size:20px;text-align:center}
 img {outline-style: inset; color:#FF91A4; outline-width: thick}
+.image-container {
+  width: 200px;
+  height: 300px;
+  border: 1px solid black;
+  margin-bottom: 25px;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit:cover;
+}
 article{ background-color:#f5f5b8 }
 h2{color: #96bfe6 ;font-family: Helvetica;}
