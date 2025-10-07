@@ -16,6 +16,13 @@ img{
   
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 }
 article {
   background-color:#f5f5b8 
