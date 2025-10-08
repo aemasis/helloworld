@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ffffff;
+  background-color:#f5f5b8;
 }
 
 ul li {
@@ -15,7 +15,9 @@ ul li a {
   color: #98c1e7;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration:none;
+  font-weight:bold ;
+  font-size: 30px;
 }
 
 ul li a:hover {
@@ -42,5 +44,4 @@ P{
     font: Arial;
     font-size:28px;
 }
-
 .center{align-items: center;}
