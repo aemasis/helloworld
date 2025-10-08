@@ -1,0 +1,46 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: #98c1e7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: hwb(#328e13);
+}
+
+h1 {
+                text-align: center;
+                color:#328e13;
+                font:Helvetica;
+                font-weight: bolder;
+            }
+
+h2 {
+                text-align: center;
+                color: #98c1e7;
+                font: Helvetica;
+                font-weight:bold;
+            }
+        
+P{ 
+    text-align: center;
+    color: #50503e;
+    font: Arial;
+    font-size:28px;
+}
+
+.center{align-items: center;}
