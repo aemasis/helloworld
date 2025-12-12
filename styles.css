@@ -83,12 +83,21 @@ a:active {
 }
 
 
-.hobby {
+}.hobby {
   margin-bottom: 40px;
   padding: 30px 20px;
   border-bottom: 2px solid #e7f2dc; 
 }
 
+
+
+.hobby h1 {
+  color:#328e13 ; 
+  font-family: Helvetica;
+  margin-bottom: 20px;
+  text-align: center;
+  
+}
 .hobby h2 {
   color: #d636d9; 
   font-family: Helvetica;
