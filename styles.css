@@ -120,6 +120,7 @@ a:active {
   outline-style: inset;
   outline-color: #328e13;
   outline-width: thick;
+  max-width: 300px;
 }
 
 
