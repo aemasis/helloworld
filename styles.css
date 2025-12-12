@@ -7,12 +7,12 @@ h1 {
   font-family: Helvetica; 
   font-size: 60px; 
   text-align: center}
-p{
-  color:#383406; font-family:Arial ;font-size:30 px;text-align:center
+h3{
+  color:#d636d9; font-family:Arial ;font-size:30 px;text-align:center
 }
 
 img{
-  outline-style: inset; color:#98c1e7; outline-width: thick 
+  outline-style: inset; color:#328e13; outline-width: thick 
   
 }
 
@@ -22,7 +22,29 @@ img{
   margin-right: auto;
   width: 50%;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #e7f2dc;
+}
 
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #98c1e7;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #b0c999;
+}
 a:link {
   color: #d636d9;
   a:active {
