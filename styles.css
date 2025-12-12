@@ -32,7 +32,7 @@ a:link {
 }
 
 
-a:active {
+:active {
   color: #3dd8db;
 h2{
   color: ##328e13 ;font-family: Helvetica;
