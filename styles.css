@@ -1,6 +1,5 @@
-@media (max-width: 768px)
 body {
-  background-color: #d1dec5;
+  background-color: #b9d1a3;
   margin-left: 80px;
   margin-right: 80px;
 }
@@ -29,13 +28,12 @@ p {
   text-align: center;
 }
 
-
 #main-navigation ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #b0c999;
+  background-color: #e7f2dc;
 }
 
 #main-navigation li {
@@ -67,7 +65,6 @@ p {
   color: #d636d9;
 }
 
-
 a:link {
   color: #d636d9;
 }
@@ -83,129 +80,7 @@ a:active {
   width: 50%;
 }
 
-
 .hobby {
   margin-bottom: 40px;
   padding: 30px 20px;
-  background-color: #f0f5eb;
-  border-radius: 10px;
-  border: 2px solid #b0c999;
-}
-
-.hobby h2 {
-  color: #d636d9; 
-  font-family: Helvetica;
-  font-size: 28px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.hobby figure {
-  margin: 20px auto;
-  text-align: center;
-  padding: 0;
-}
-
-.hobby img {
-  display: block;
-  margin: 0 auto;
-  width: 60%;
-  max-width: 500px;
-  height: auto;
-  outline-style: inset;
-  outline-color: #328e13;
-  outline-width: thick;
-}
-
-.hobby p {
-  text-align: center;
-  margin: 20px auto 0 auto;
-  padding: 0 20px;
-  max-width: 700px;
-  line-height: 1.8;
-  font-size: 16px;
-}
-
-.hobby figcaption {
-  text-align: center;
-  font-style: italic;
-  color: #666;
-  margin-top: 10px;
-  font-size: 14px;
-}
-
-
-header img {
-  display: block;
-  margin: 0 auto;
-  width: 80%;
-  max-width: 500px;
-  height: auto;
-}
-
-
-div.img-container {
-  width: 80%;
-  height: 0;
-  padding-bottom: 75%;
-  margin: 0 auto;
-}
-
-div.img-container > img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-
-#author-photo {
-  background-color: #f0f5eb;
-  padding: 30px;
-  margin: 20px 0;
-  border-radius: 10px;
-  text-align: center;
-  border: 2px solid #b0c999;
-}
-
-#author-photo h2 {
-  color: #d636d9; 
-  font-size: 32px;
-}
-
-#author-photo img {
-  display: block;
-  margin: 0 auto;
-  width: 400px;
-  max-width: 90%;
-  height: auto;
-  border: 5px solid #328e13;
-  outline: none; 
-
-#fun-facts {
-  padding: 40px;
-  margin: 40px;
-  background-color: #d1dec5;
-  border-radius: 10px;
-  border: 2px solid #b0c999;
-}
-
-#fun-facts h2 {
-  color: #d636d9; 
-  text-decoration: underline;
-  text-align: center;
-}
-
-#fun-facts ul {
-  list-style-type: square; 
-  background-color: transparent; 
-  padding-left: 40px;
-  overflow: visible; 
-}
-
-#fun-facts li {
-  float: none; 
-  color: #000000;
-  text-align: left;
-  padding: 8px 0;
-  font-size: 18px;
-}
+  background-color: #f0f5e
