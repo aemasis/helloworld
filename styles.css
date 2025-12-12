@@ -1,12 +1,11 @@
-@media (max-width: 768px)
 body {
-  background-color: #f5f5b8;
+  background-color: #e7f2dc;
   margin-left: 80px;
   margin-right: 80px;
 }
 
 h1 { 
-  color: #d636d9;
+  color: #328e13;
   font-family: Helvetica; 
   font-size: 60px; 
   text-align: center;
@@ -35,7 +34,7 @@ p {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #e7f2dc;
+  background-color: #b0c999;
 }
 
 #main-navigation li {
@@ -59,7 +58,7 @@ p {
 }
 
 #main-navigation li a:hover {
-  background-color: #b0c999;
+  background-color: #98c1e7;
   color: #d636d9;
 }
 
@@ -84,21 +83,14 @@ a:active {
 }
 
 
-}.hobby {
+.hobby {
   margin-bottom: 40px;
   padding: 30px 20px;
-  border-bottom: 2px solid #e7f2dc; 
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid #b0c999;
 }
 
-
-
-.hobby h1 {
-  color:#328e13 ; 
-  font-family: Helvetica;
-  margin-bottom: 20px;
-  text-align: center;
-  
-}
 .hobby h2 {
   color: #d636d9; 
   font-family: Helvetica;
@@ -108,32 +100,30 @@ a:active {
 }
 
 .hobby figure {
-  margin: 20px auto; 
-  text-align: center; 
+  margin: 20px auto;
+  text-align: center;
   padding: 0;
 }
 
 .hobby img {
-  display: block; 
-  margin: 0 auto; 
+  display: block;
+  margin: 0 auto;
   width: 60%;
-  height: auto; 
+  max-width: 500px;
+  height: auto;
   outline-style: inset;
   outline-color: #328e13;
   outline-width: thick;
-  max-width: 300px;
 }
-
 
 .hobby p {
-  text-align: center; 
-  margin: 20px auto 0 auto; 
-  padding: 0 20px; /
-  max-width: 700px; 
-  line-height: 1.8; 
+  text-align: center;
+  margin: 20px auto 0 auto;
+  padding: 0 20px;
+  max-width: 700px;
+  line-height: 1.8;
   font-size: 16px;
 }
-
 
 .hobby figcaption {
   text-align: center;
@@ -143,11 +133,21 @@ a:active {
   font-size: 14px;
 }
 
+
+header img {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+  max-width: 500px;
+  height: auto;
+}
+
+
 div.img-container {
   width: 80%;
   height: 0;
   padding-bottom: 75%;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 
 div.img-container > img {
@@ -158,11 +158,12 @@ div.img-container > img {
 
 
 #author-photo {
-  background-color: #e7f2dc; 
+  background-color: #ffffff;
   padding: 30px;
   margin: 20px 0;
   border-radius: 10px;
   text-align: center;
+  border: 2px solid #b0c999;
 }
 
 #author-photo h2 {
@@ -178,12 +179,13 @@ div.img-container > img {
   height: auto;
   border: 5px solid #328e13;
   outline: none; 
-}
-
 
 #fun-facts {
   padding: 40px;
   margin: 40px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid #b0c999;
 }
 
 #fun-facts h2 {
