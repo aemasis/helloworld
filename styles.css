@@ -1,6 +1,6 @@
 @media (max-width: 768px)
 body {
-  background-color: #e7f2dc;
+  background-color: #d1dec5;
   margin-left: 80px;
   margin-right: 80px;
 }
@@ -184,7 +184,7 @@ div.img-container > img {
 #fun-facts {
   padding: 40px;
   margin: 40px;
-  background-color: #e7f2dc;
+  background-color: #d1dec5;
   border-radius: 10px;
   border: 2px solid #b0c999;
 }
