@@ -96,4 +96,47 @@ div.img-container > img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}#author-photo {
+  background-color: #e7f2dc; 
+  padding: 30px;
+  margin: 20px 0;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#author-photo h2 {
+  color:  #d636d9; 
+  font-size: 32px;
+}
+
+#author-photo img {
+  width: 400px;
+  border: 5px solid #328e13;
+  border-radius: 50%; 
+  outline: none; 
+}
+#fun-facts {
+  padding: 40px;
+  margin: 40px ;
+}
+
+#fun-facts h2 {
+  color:  #d636d9; 
+  text-decoration: underline;
+  text-align: center;
+}
+
+#fun-facts ul {
+  list-style-type: square; 
+  background-color: transparent; 
+  padding-left: 40px;
+  overflow: visible; 
+}
+
+#fun-facts li {
+  float: none; 
+  color: #000000;
+  text-align: left;
+  padding: 8px 0;
+  font-size: 18px;
 }
