@@ -23,7 +23,11 @@ img{
   width: 50%;
 }
 
-
+a:link {
+  color: #d636d9;
+  a:active {
+  color: #eb9a31;
+}
 
 
 h2{
