@@ -27,7 +27,22 @@ img{
 article {
   background-color:#f5f5b8 
 }
+a:link {
+  color:#d93ddb;
+}
 
+
+a:visited {
+  color:#d93ddb ;
+}
+
+
+a:hover {
+  color: ##9cdb3d;
+}
+
+a:active {
+  color: #3dd8db;
 h2{
   color: ##328e13 ;font-family: Helvetica;
 }
